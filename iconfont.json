@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "18402820",
+      "name": "s-back",
+      "font_class": "s-back",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "18402819",
+      "name": "s-up",
+      "font_class": "s-up",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
       "icon_id": "18326242",
       "name": "claim-form",
       "font_class": "claim-form",

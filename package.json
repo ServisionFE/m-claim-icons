@@ -1,0 +1,16 @@
+{
+  "name": "m-claim-icons",
+  "version": "0.0.1",
+  "description": "mobile claim icons",
+  "main": "iconfont.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mobile",
+    "claim",
+    "icons"
+  ],
+  "author": "bugong",
+  "license": "MIT"
+}

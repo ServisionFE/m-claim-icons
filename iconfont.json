@@ -1,0 +1,261 @@
+{
+  "id": "2214953",
+  "name": "索赔-店端",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18326242",
+      "name": "claim-form",
+      "font_class": "claim-form",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "18326243",
+      "name": "control-over-invoices",
+      "font_class": "control-over-invoices",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "18326244",
+      "name": "application-for-extension-of-insurance",
+      "font_class": "application-for-extension-of-insurance",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "18326245",
+      "name": "diagnosis",
+      "font_class": "diagnosis",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "18326246",
+      "name": "help-feedback",
+      "font_class": "help-feedback",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "18326247",
+      "name": "maintenance-sheet",
+      "font_class": "maintenance-sheet",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "18326248",
+      "name": "maintenance-pre-application",
+      "font_class": "maintenance-pre-application",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "18326249",
+      "name": "misjudgment-sheet",
+      "font_class": "misjudgment-sheet",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "18326250",
+      "name": "no-return",
+      "font_class": "no-return",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "18326251",
+      "name": "notice",
+      "font_class": "notice",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "18326252",
+      "name": "pre-claim-application",
+      "font_class": "pre-claim-application",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "18326253",
+      "name": "pick-up-reminder",
+      "font_class": "pick-up-reminder",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "18326254",
+      "name": "s-close",
+      "font_class": "s-close",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "18326255",
+      "name": "settlement-batch",
+      "font_class": "settlement-batch",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "18326256",
+      "name": "s-next",
+      "font_class": "s-next",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "18326257",
+      "name": "service-activities",
+      "font_class": "service-activities",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "18326258",
+      "name": "return",
+      "font_class": "return",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "18326259",
+      "name": "s-down",
+      "font_class": "s-down",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "18326260",
+      "name": "s-spanner",
+      "font_class": "s-spanner",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "18326261",
+      "name": "s-sift",
+      "font_class": "s-sift",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "18326262",
+      "name": "s-consult",
+      "font_class": "s-consult",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "18326263",
+      "name": "separate-return",
+      "font_class": "separate-return",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "18326264",
+      "name": "s-news-1",
+      "font_class": "s-news-1",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "18326265",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "18326266",
+      "name": "s-calendar",
+      "font_class": "s-calendar",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "18326267",
+      "name": "transportation-management",
+      "font_class": "transportation-management",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "18326268",
+      "name": "s-books",
+      "font_class": "s-books",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "18326269",
+      "name": "s-kilometre",
+      "font_class": "s-kilometre",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "18326270",
+      "name": "special-events",
+      "font_class": "special-events",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "18326271",
+      "name": "vehicle-information",
+      "font_class": "vehicle-information",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "18326272",
+      "name": "s-scan",
+      "font_class": "s-scan",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "18326273",
+      "name": "san-bao-dispute",
+      "font_class": "san-bao-dispute",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "18326274",
+      "name": "s-plus",
+      "font_class": "s-plus",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "18326275",
+      "name": "s-news-2",
+      "font_class": "s-news-2",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "18326276",
+      "name": "s-claim",
+      "font_class": "s-claim",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "18326277",
+      "name": "s-pdi",
+      "font_class": "s-pdi",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    }
+  ]
+}
